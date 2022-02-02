@@ -1,8 +1,7 @@
 - 👋 Hi, I’m @adolfjeremy
-- 👀 I’m interested in Web developer
+- 👀 I’m interested in Web development
 - 🌱 I’m currently learning Front-end dev
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me adolf.jer@gmail.com
+- 📫 How to reach me jeremynainggolan15@gmail.com
 
 <!---
 adolfjeremy/adolfjeremy is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
