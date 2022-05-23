@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @adolfjeremy
-- 👀 I’m interested in Web development
+- 👀 I’m interested in Front-End Web development
 - 🌱 I’m currently learning Front-end dev
 - 📫 How to reach me jeremynainggolan15@gmail.com
 
